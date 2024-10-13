@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#f8d1d1"  # Light pink background color
+backgroundColor = "#f8d1d1"  # Set background to light pink
+secondaryBackgroundColor = "#f8d1d1"  # Optionally set the secondary background (for sections)
+textColor = "#000000"  # Optionally set the text color to black
